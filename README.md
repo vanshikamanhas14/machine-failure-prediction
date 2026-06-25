@@ -9,22 +9,22 @@ AI4I 2020 Predictive Maintenance Dataset
 
 Features used:
 
-Air Temperature [K]
-Process Temperature [K]
-Rotational Speed [rpm]
-Torque [Nm]
-Tool Wear [min]
+Air Temperature [K],
+Process Temperature [K],
+Rotational Speed [rpm],
+Torque [Nm],
+Tool Wear [min],
 
 Target:
 
 Machine Failure (0 = No Failure, 1 = Failure)
 
-#Technologies Used
-Python
-Machine Learning
-Scikit-Learn
-Flask
-Streamlit
-Pandas
-NumPy
+#Technologies Used:
+Python,
+Machine Learning,
+Scikit-Learn,
+Flask,
+Streamlit,
+Pandas,
+NumPy,
 Joblib
