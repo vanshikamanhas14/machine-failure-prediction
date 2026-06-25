@@ -1,0 +1,11 @@
+High temperature increases the risk of machine failure due to overheating of components.
+
+Low rotational speed may indicate improper functioning or mechanical issues in the system.
+
+High torque can cause excessive stress on machine parts, leading to potential damage or breakdown.
+
+Abnormal vibration levels are often an early sign of machine failure.
+
+Poor lubrication can increase friction and reduce machine efficiency.
+
+Unexpected drops in performance may indicate internal faults in the system.
